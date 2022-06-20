@@ -1,0 +1,2 @@
+npx -p typescript tsc --init (iniciar)
+npx -p typescript tsc (transformar)
